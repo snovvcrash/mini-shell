@@ -4,7 +4,7 @@
 
 ## How-to-use:
 
-  1. Build and run:
+  * Build and run:
   
     ```
     $ gcc mini-shell.s -o mini-shell
