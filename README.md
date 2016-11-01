@@ -1,6 +1,6 @@
 # mini-shell
 
-## A simplified implementation of linux shell based on fork-exec-wait concept.
+## A simplified implementation of linux shell based on `fork-exec-wait` concept.
 
 ## How-to-use:
 
