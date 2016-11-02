@@ -10,3 +10,9 @@
     $ gcc mini-shell.s -o mini-shell
     $ ./mini-shell
     ```
+  
+  * Terminate:
+  
+    ```
+    $ >_ exit
+    ```
