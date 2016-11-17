@@ -158,7 +158,7 @@ main:
 /* CHILD_PROC-START */
 /* _____PARSE_STRING-START_____ */
 	movl	cmd,	%edi
-	movl	$10,	%esi			/* starting from argv[10] */
+	movl	$10,	%esi  // starting from argv[10]
 	
 6:
 	movb	1(%edi),		%al
