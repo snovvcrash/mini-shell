@@ -12,5 +12,5 @@ A simplified assembly implementation of linux shell based on *fork-exec-wait* co
   
   * Terminate:
   ```
-  $ >_ exit
+  >_ exit
   ```
