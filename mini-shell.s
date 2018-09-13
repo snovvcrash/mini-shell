@@ -399,7 +399,7 @@ main:
 /* _____END_PROG-END_____ */
 
 
-prompt:		.string ">_ "
+prompt:		.string "mini-shell> "
 error1:		.string "%s: command not found\n"
 error2:		.string "*** ERROR: forking child process failed\n"
 msg:		.string "exec command: %s\n"
