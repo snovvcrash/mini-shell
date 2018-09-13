@@ -1,6 +1,6 @@
 # mini-shell
 
-Simplified assembly implementation of linux shell based on *fork-exec-wait* concept.
+Simplified GAS assembly implementation of Linux shell based on the *fork-exec-wait* concept. Only for 32-bit Linux systems.
 
 Made for educational purposes.
 
